@@ -1,6 +1,20 @@
 ## C# basid/mid-advanced project for studies (University of Gdańsk, IT and Econometrics, Application in Business)
 Repository with various C# programs for a subject pass.
 
+## Table of contents
+* [Tables](#tables)
+* [Overloading constructors](#overloading-constructors)
+* [Exceptions](#exceptions)
+* [Standart input-output](#standart-input-output)
+* [Palindromes](#palindromes)
+* [Directory info / File info](#directory-info-/-file-info)
+* [Streams](#streams)
+* [Access modifying ](#access-modifying )
+* [Nested Classes](#nested-dlasses)
+* [Generic Types](#generic-types)
+* [Delegates](#delegates)
+* [Collections](#collections)
+
 ### 1,2. Tables 
 C# DataTable class represents a data table in C#. ... The DataTable class in C# ADO.NET is a database table representation and provides a collection of columns and rows to store data in a grid form. The code sample in this artilce explains how to create a DataTable at run-time in C#.
 
@@ -13,7 +27,7 @@ Exceptions provide a way to transfer control from one part of a program to anoth
 ### 5. Standart input-output
 Input and outputs methods allow to read user input data and show output text.
 
-### 6. Palindrome 
+### 6. Palindromes 
 A palindrome number is a number that is same after reverse. For example 121, 34543, 343, 131, 48984 are the palindrome numbers.
 
 ### 7. Directory info / File info
