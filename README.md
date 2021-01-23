@@ -2,19 +2,19 @@
 Repository with various C# programs for a subject pass.
 
 ## Table of contents
-* [1,2. Tables](#tables)
-* [3. Overloading constructors](#overloading-constructors)
-* [4. Exceptions](#exceptions)
-* [5. Standart input-output](#standart-input-output)
-* [6. Palindromes](#palindromes)
-* [7. Directory info / File info](#directory-info-/-file-info)
-* [8. Streams](#streams)
-* [9. Access modifying](#access-modifying)
-* [10. Abstarction](#abstarction)
-* [11/12. Nested Classes](#nested-dlasses)
-* [13. Generic Types](#generic-types)
-* [14. Delegates](#delegates)
-* [15. Collections](#collections)
+* [1,2. Tables](#12-tables)
+* [3. Overloading constructors](#3-overloading-constructors)
+* [4. Exceptions](#4-exceptions)
+* [5. Standart input-output](#5-standart-input-output)
+* [6. Palindromes](#6-palindromes)
+* [7. Directory info / File info](#7-directory-info-/-file-info)
+* [8. Streams](#8-streams)
+* [9. Access modifying](#9-access-modifying)
+* [10. Abstarction](#10-abstarction)
+* [11/12. Nested Classes](#1112-nested-dlasses)
+* [13. Generic Types](#13-generic-types)
+* [14. Delegates](#14-delegates)
+* [15. Collections](#15-collections)
 
 ### 1,2. Tables 
 C# DataTable class represents a data table in C#. ... The DataTable class in C# ADO.NET is a database table representation and provides a collection of columns and rows to store data in a grid form. The code sample in this artilce explains how to create a DataTable at run-time in C#.
