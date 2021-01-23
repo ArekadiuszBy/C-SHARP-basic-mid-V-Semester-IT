@@ -2,18 +2,19 @@
 Repository with various C# programs for a subject pass.
 
 ## Table of contents
-* [Tables](#tables)
-* [Overloading constructors](#overloading-constructors)
-* [Exceptions](#exceptions)
-* [Standart input-output](#standart-input-output)
-* [Palindromes](#palindromes)
-* [Directory info / File info](#directory-info-/-file-info)
-* [Streams](#streams)
-* [Access modifying ](#access-modifying )
-* [Nested Classes](#nested-dlasses)
-* [Generic Types](#generic-types)
-* [Delegates](#delegates)
-* [Collections](#collections)
+* [1,2. Tables](#tables)
+* [3. Overloading constructors](#overloading-constructors)
+* [4. Exceptions](#exceptions)
+* [5. Standart input-output](#standart-input-output)
+* [6. Palindromes](#palindromes)
+* [7. Directory info / File info](#directory-info-/-file-info)
+* [8. Streams](#streams)
+* [9. Access modifying](#access-modifying)
+* [10. Abstarction](#abstarction)
+* [11/12. Nested Classes](#nested-dlasses)
+* [13. Generic Types](#generic-types)
+* [14. Delegates](#delegates)
+* [15. Collections](#collections)
 
 ### 1,2. Tables 
 C# DataTable class represents a data table in C#. ... The DataTable class in C# ADO.NET is a database table representation and provides a collection of columns and rows to store data in a grid form. The code sample in this artilce explains how to create a DataTable at run-time in C#.
