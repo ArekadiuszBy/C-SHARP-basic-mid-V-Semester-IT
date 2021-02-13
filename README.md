@@ -1,5 +1,5 @@
 ## C# basid/mid-advanced project for studies (University of Gdańsk, IT and Econometrics, Application in Business)
-Repository with various C# programs for a subject pass.
+Repository with various (basic & mid-advanced) C# programs for a subject pass.
 
 ## Table of contents
 * [1,2. Tables](#12-tables)
